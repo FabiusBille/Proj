@@ -1,0 +1,43 @@
+@charset "utf-8";
+*
+{
+	box-sizing: border-box;
+}
+body
+{
+	margin: 0;
+	padding:0;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	line-height: 1.7;
+	
+}
+/* CSS Document */
+body
+{
+	background: url(First_fon.jpg);
+
+height: 100%;
+	width: 100%;
+}
+#meny
+{margin: 10px 10px 5px 15px;
+	min-height: 50px;
+	min-width: 300px;
+	background-image: url("Pda.png");
+
+	background-repeat: no-repeat; 
+}
+#tab
+{
+	margin: 2px 300px 5px 40px;
+	
+}
+#row{
+	margin: 5px 10px 5px 15px;
+	
+}
+#Home
+{
+	margin: 5px 10px 5px 10px;
+	
+}
